@@ -1,0 +1,48 @@
+SET !ERRORIGNORE YES
+SET !REPLAYSPEED FAST
+WAIT SECONDS=1
+URL GOTO=https://rumble.com/
+URL GOTO=https://rumble.com/v3yiebh-queen-medusa-battle-through-the-heaven.html?mref=1mlqpu&mc=cejzd
+WAIT SECONDS=3
+TAG POS=1 TYPE=DIV ATTR=CLASS:bigPlayUI<SP>ctp
+WAIT SECONDS=28
+SET !ERRORIGNORE YES
+SET !REPLAYSPEED FAST
+WAIT SECONDS=3
+URL GOTO=https://rumble.com/
+URL GOTO=https://rumble.com/v3yidwv-donghua-battle-through-the-heaven.html?mref=1mlqpu&mc=cejzd
+WAIT SECONDS=3
+TAG POS=1 TYPE=DIV ATTR=CLASS:bigPlayUI<SP>ctp
+WAIT SECONDS=30
+SET !ERRORIGNORE YES
+SET !REPLAYSPEED FAST
+WAIT SECONDS=2
+URL GOTO=https://rumble.com/
+URL GOTO=https://rumble.com/v3ybm5w-marvel-is.html?mref=1mlqpu&mc=cejzd
+WAIT SECONDS=3
+TAG POS=1 TYPE=DIV ATTR=CLASS:bigPlayUI<SP>ctp
+WAIT SECONDS=30
+SET !ERRORIGNORE YES
+SET !REPLAYSPEED FAST
+WAIT SECONDS=2
+URL GOTO=https://rumble.com/
+URL GOTO=https://rumble.com/v3yidqm-donghua-perfect-world.html?mref=1mlqpu&mc=cejzd
+WAIT SECONDS=3
+TAG POS=1 TYPE=DIV ATTR=CLASS:bigPlayUI<SP>ctp
+WAIT SECONDS=30
+SET !ERRORIGNORE YES
+SET !REPLAYSPEED FAST
+WAIT SECONDS=3
+URL GOTO=https://rumble.com/
+URL GOTO=https://rumble.com/v3xqqmc-satoru-gojo.html?mref=1mlqpu&mc=cejzd
+WAIT SECONDS=3
+TAG POS=1 TYPE=DIV ATTR=CLASS:bigPlayUI<SP>ctp
+WAIT SECONDS=30
+SET !ERRORIGNORE YES
+SET !REPLAYSPEED FAST
+WAIT SECONDS=2
+URL GOTO=https://rumble.com/
+URL GOTO=https://rumble.com/v1xyj3k-best-shinchan-game-ever-.html?mref=1mlqpu&mc=cejzd
+WAIT SECONDS=3
+TAG POS=1 TYPE=DIV ATTR=CLASS:bigPlayUI<SP>ctp
+WAIT SECONDS=30
